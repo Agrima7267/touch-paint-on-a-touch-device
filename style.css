@@ -1,0 +1,41 @@
+.body_backgorund {
+    background-image: url("green\ pastel.jpeg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: #29ab87; 
+      font-size: 40px;
+      font-family: fantasy;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+      border-color: #29ab87;
+  }
+
+  button {
+    background-color: white;
+    border-color: #29ab87;
+    color: #29ab87;
+    padding: 10px 42px;
+    font-size: 16px;
+    font-family: fantasy;
+    border-radius: 10;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+
+  span{
+    font-family: fantasy;
+  }
+  
